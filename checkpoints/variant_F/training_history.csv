@@ -1,0 +1,1 @@
+epoch,train_loss,train_inf_f1,train_sev_f1,val_loss,val_inf_f1,val_inf_acc,val_inf_auc,val_sev_f1,val_sev_acc,lr,time_sec,best
