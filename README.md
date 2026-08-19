@@ -19,7 +19,8 @@ QAHNet addresses the critical vulnerability of standard deep learning models whe
                   └───────────────────────────┬────────────────────────────┘
                                               │
                                   ┌───────────┴───────────┐
-                                  │ EfficientNet-B0 Backbone │
+                                  │ EfficientNet-B0       |
+                                  │ Backbone              |
                                   └───────────┬───────────┘
                                               │ 7x7x1280 Feature Map
                                   ┌───────────┴───────────┐
@@ -43,7 +44,7 @@ QAHNet addresses the critical vulnerability of standard deep learning models whe
                                     ┌─────────────────┼─────────────────┐
                                     ▼                 ▼                 ▼
                              ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
-                             │ Classification│ │  Severity   │ │   Quality   │
+                             │Classification│  │  Severity   │   │   Quality   │
                              │    Head     │   │    Head     │   │    Head     │
                              └─────────────┘   └─────────────┘   └─────────────┘
 ```
