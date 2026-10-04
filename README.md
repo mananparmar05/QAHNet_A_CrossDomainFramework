@@ -192,6 +192,14 @@ python evaluate_cross_domain.py \
 
 ---
 
+## Collaborators
+Nachiket Jain ([GitHub](https://github.com/Nachiket-Jain)) ([Mail](mailto:nachiketjain5@gmail.com))
+<br>
+Manan Parmar ([GitHub](https://github.com/mananparmar05)) ([Mail](mailto:mananparmar05@gmail.com))
+<br>
+Madhav Patel ([GitHub](github.com/Madhavpatel24)) ([Mail](mailto:2425madhavp@gmail.com))
+<br>
+
 ## 🛠️ Citation & Acknowledgments
 
 If you find this codebase or research implementation useful in your work, please cite:
