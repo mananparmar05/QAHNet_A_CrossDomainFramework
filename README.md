@@ -199,7 +199,7 @@ Manan Parmar ([GitHub](https://github.com/mananparmar05)) ([Mail](mailto:mananpa
 <br>
 Madhav Patel ([GitHub](https://github.com/Madhavpatel24)) ([Mail](mailto:2425madhavp@gmail.com))
 <br>
-Madhav Patel ([GitHub](https://github.com/JashShah5125)) ([Mail](mailto:jashshah0512@gmail.com))
+Jash Shah ([GitHub](https://github.com/JashShah5125)) ([Mail](mailto:jashshah0512@gmail.com))
 
 ## 🛠️ Citation & Acknowledgments
 
