@@ -201,18 +201,6 @@ Madhav Patel ([GitHub](https://github.com/Madhavpatel24)) ([Mail](mailto:2425mad
 <br>
 Jash Shah ([GitHub](https://github.com/JashShah5125)) ([Mail](mailto:jashshah0512@gmail.com))
 
-## 🛠️ Citation & Acknowledgments
-
-If you find this codebase or research implementation useful in your work, please cite:
-
-```bibtex
-@article{machado2025qahnet,
-  title={QAHNet: Quality-Aware Hybrid Network for Cross-Domain Disease Classification and Severity Assessment},
-  author={Machado, Sweedle and others},
-  journal={Procedia Computer Science},
-  year={2025}
-}
-```
 
 ---
 
